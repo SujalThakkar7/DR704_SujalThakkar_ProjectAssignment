@@ -1,1 +1,1 @@
-# DR704_SujalThakkar_ProjectAssignment
+This repository contains my project assignments completed as part of the course. IT includes work related to HTML, SQL, and Java, demonstrating my learning and practical application of web development, database management, and Java programming concepts. 
